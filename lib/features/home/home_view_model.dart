@@ -54,6 +54,12 @@ class HomeViewModel with ChangeNotifier {
   ];
 
   int selectedIndex = 0;
+  bool isFav = false;
+
+  void isFavTaped() {
+    isFav = !isFav;
+    notifyListeners();
+  }
 
   void setSelectedIndex(int index) {
     selectedIndex = index;
