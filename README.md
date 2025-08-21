@@ -1,16 +1,50 @@
-# travel_app
+# 🌍 Travel App  
 
-A new Flutter project.
+A beautiful **Flutter Travel App** where users can explore destinations with interactive swipe cards, search for places, and view detailed destination pages with smooth hero animations.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started  
 
-A few resources to get you started if this is your first Flutter project:
+To get started with the project, clone the repository and run it locally:  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/asadeee-web/travel_app.git
+cd travel_app
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Preview
+
+Here’s a sneak peek of the app design:
+
+![App Mockup](readme.png)
+
+---
+
+## 📌 Features
+
+ ✅ Explore amazing destinations
+
+ ✅ Swipe through interactive travel cards
+
+ ✅ Get a modern, smooth, and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Frontend)  
+- **Getx** (Navigation)  
+- **Provider** (State Management)  
+- **Dart** (Programming Language)  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a PR.
+
+---
+
